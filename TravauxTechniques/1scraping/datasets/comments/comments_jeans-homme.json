@@ -1,0 +1,72 @@
+{
+    "https://www.jumia.ci/fashion-short-en-jean-pour-homme-bleu-29028038.html": {
+        "average_rating": "5",
+        "total_reviews": "1 avis vérifié",
+        "comments": []
+    },
+    "https://www.jumia.ci/levis1-jeans-levis-501-bleu-28063693.html": {
+        "average_rating": "4.2",
+        "total_reviews": "17 avis vérifiés",
+        "comments": [
+            {
+                "stars": "5 out of 5",
+                "title": "La qualite",
+                "content": "Son originalité",
+                "user_info": "11-12-2024par Mamadou"
+            },
+            {
+                "stars": "5 out of 5",
+                "title": "J'aime ça",
+                "content": "Super jean",
+                "user_info": "05-08-2024par Kassoum"
+            },
+            {
+                "stars": "4 out of 5",
+                "title": "satisfait",
+                "content": "Très bonne qualité. Super ???? pour son prix 15250fcfa",
+                "user_info": "31-07-2024par Charles"
+            },
+            {
+                "stars": "5 out of 5",
+                "title": "J'aime ça",
+                "content": "Produit élégant et durable.",
+                "user_info": "01-07-2024par N'GORAN"
+            }
+        ]
+    },
+    "https://www.jumia.ci/fashion-pantalon-jeans-homme-noir-25264330.html": {
+        "average_rating": "3",
+        "total_reviews": "1 avis vérifié",
+        "comments": []
+    },
+    "https://www.jumia.ci/fashion-jeans-crayon-brodes-dechires-pour-hommes-slim-fit-casual-jeans-minces-denim-classique-hommes-26816575.html": {
+        "average_rating": "2.8",
+        "total_reviews": "12 avis vérifiés",
+        "comments": [
+            {
+                "stars": "5 out of 5",
+                "title": "Like",
+                "content": "Ce produit est très très bon j a n ai une",
+                "user_info": "25-03-2024par Adouzy"
+            }
+        ]
+    },
+    "https://www.jumia.ci/fashion-pantalon-jeans-homme-noir-509593.html": {
+        "average_rating": "3.2",
+        "total_reviews": "15 avis vérifiés",
+        "comments": [
+            {
+                "stars": "5 out of 5",
+                "title": "Monsieur",
+                "content": "Tres confortable",
+                "user_info": "08-01-2018par ABDOULAYE"
+            },
+            {
+                "stars": "3 out of 5",
+                "title": "Pas mal",
+                "content": "Pas mal",
+                "user_info": "14-12-2017par Kouadio Richard"
+            }
+        ]
+    }
+}
