@@ -1,8 +1,10 @@
-beautifulsoup4==4.12.2
-matplotlib==3.7.2
-nltk==3.8.1
 pandas==1.5.3
-requests==2.31.0
 selenium==4.11.2
 textblob==0.17.1
 wordcloud==1.8.2.2
+beautifulsoup4==4.12.2
+matplotlib==3.8.1
+spacy==3.6.0
+wordcloud==1.9.2
+selenium==4.11.2
+urllib3==1.26.16
